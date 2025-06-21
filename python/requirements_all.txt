@@ -203,7 +203,7 @@ proto-plus==1.22.3 \
     --hash=sha256:a49cd903bc0b6ab41f76bf65510439d56ca76f868adf0274e738bfdd096894df \
     --hash=sha256:fdcd09713cbd42480740d2fe29c990f7fbd885a67efc328aa8be6ee3e9f76a6b
     # via google-cloud-kms
-protobuf==4.24.3 \
+protobuf==4.25.8 \
     --hash=sha256:067f750169bc644da2e1ef18c785e85071b7c296f14ac53e0900e605da588719 \
     --hash=sha256:12e9ad2ec079b833176d2921be2cb24281fa591f0b119b208b788adc48c2561d \
     --hash=sha256:1b182c7181a2891e8f7f3a1b5242e4ec54d1f42582485a896e4de81aa17540c2 \
@@ -257,7 +257,7 @@ six==1.16.0 \
     --hash=sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926 \
     --hash=sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254
     # via python-dateutil
-urllib3==1.26.16 \
+urllib3==2.5.0 \
     --hash=sha256:8d36afa7616d8ab714608411b4a3b13e58f463aee519024578e062e141dce20f \
     --hash=sha256:8f135f6502756bde6b2a9b28989df5fbe87c9970cecaa69041edcce7f0589b14
     # via
