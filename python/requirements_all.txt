@@ -203,7 +203,7 @@ proto-plus==1.22.3 \
     --hash=sha256:a49cd903bc0b6ab41f76bf65510439d56ca76f868adf0274e738bfdd096894df \
     --hash=sha256:fdcd09713cbd42480740d2fe29c990f7fbd885a67efc328aa8be6ee3e9f76a6b
     # via google-cloud-kms
-protobuf==4.24.3 \
+protobuf==6.33.5 \
     --hash=sha256:067f750169bc644da2e1ef18c785e85071b7c296f14ac53e0900e605da588719 \
     --hash=sha256:12e9ad2ec079b833176d2921be2cb24281fa591f0b119b208b788adc48c2561d \
     --hash=sha256:1b182c7181a2891e8f7f3a1b5242e4ec54d1f42582485a896e4de81aa17540c2 \
